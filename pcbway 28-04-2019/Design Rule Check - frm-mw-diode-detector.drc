@@ -1,0 +1,114 @@
+Protel Design System Design Rule Check
+PCB File : C:\altium-projects\frm-mw-diode-detector\frm-mw-diode-detector.PcbDoc
+Date     : 28/04/2019
+Time     : 19:21:43
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad P2-1(6298.701mil,1115mil) on Multi-Layer on Net GND
+   Pad P2-1(5905mil,1115mil) on Multi-Layer on Net GND
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=200mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=248.031mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (not IsVia),(not IsVia)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=8mil) (IsVia),(IsVia)
+   Violation between Hole To Hole Clearance Constraint: (Collision < 8mil) Between Via (5866.142mil,2342.52mil) from Top Layer to Bottom Layer And Via (5866.142mil,2342.52mil) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 8mil) Between Via (6141.732mil,2401.575mil) from Top Layer to Bottom Layer And Via (6141.732mil,2401.575mil) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 8mil) Between Via (6535.433mil,2401.575mil) from Top Layer to Bottom Layer And Via (6535.433mil,2401.575mil) from Top Layer to Bottom Layer Pad/Via Touching Holes
+   Violation between Hole To Hole Clearance Constraint: (Collision < 8mil) Between Via (6614.173mil,2401.575mil) from Top Layer to Bottom Layer And Via (6614.173mil,2401.575mil) from Top Layer to Bottom Layer Pad/Via Touching Holes
+Rule Violations :4
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=8mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=7.874mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Pad P1-3(6818.07mil,1272.951mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (5865.63mil,996.89mil)(5865.63mil,1429.961mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (5865.63mil,996.89mil)(6338.071mil,996.89mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (5964.055mil,859.095mil)(5964.055mil,996.89mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (5964.055mil,859.095mil)(6239.646mil,859.095mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6239.646mil,859.095mil)(6239.646mil,996.89mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6239.646mil,996.89mil)(6338.071mil,996.89mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6338.071mil,996.89mil)(6338.071mil,1429.961mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6457.834mil,849.723mil)(6457.834mil,928.463mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6457.834mil,849.723mil)(6635mil,849.723mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6457.834mil,928.463mil)(6457.834mil,1408.78mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6635mil,849.723mil)(6812.166mil,849.723mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6812.166mil,849.723mil)(6812.166mil,928.463mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Track (6812.166mil,928.463mil)(6812.166mil,1172.56mil) on Top Overlay 
+Rule Violations :14
+
+Processing Rule : Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector'))
+   Violation between Room Definition: Between LCC Component U3-LTC5564HUD (6365mil,2190mil) on Top Layer And Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SIP Component P2-PJ-3900-04 (6101.85mil,1115mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And Small Component C1-220uF (6605mil,1605mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And Small Component P1-DC-005A-20A (6635mil,1389.094mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C10-1nF (6570mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C11-10uF (6366.496mil,1695mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C14-100nF (6310.866mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C16-100nF (6275mil,1550mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C2-100nF (5875mil,1820mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C3-10uF (6505mil,1805.945mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C4-10uF (6505mil,1930mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C5-10pF (6490mil,2225mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component C6-100pF (6555mil,2225mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component D1-3.3V (6275mil,1480mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component D2-3.3V (5955mil,1480mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component L1-BLM18BD252SN1D (6460mil,1530mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R10-10K (6165mil,2220mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R1-1K (6350mil,1835mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R13-100K (6105mil,1635mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R14-10K (6700mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R15-10K (6230mil,2220mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R17-10K (5970mil,2220mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R18-1K (5985mil,2010mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R2-100K (6350mil,1900mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R3-1K (6350mil,1770mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R4-0 (6374.843mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R5-10K (6245mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R6-10K (6220mil,1640mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R7-10K (6070mil,1550mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component R9-10K (6635mil,2035mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SMT Small Component U1-AS78L05RTR-E1 (6695mil,1865mil) on Top Layer 
+   Violation between Room Definition: Between Room frm-mw-diode-detector (Bounding Region = (0mil, 0mil, 2000mil, 1000mil) (InComponentClass('frm-mw-diode-detector')) And SOIC Component U2-LM324DT (6090mil,1825mil) on Top Layer 
+Rule Violations :32
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 50
+Waived Violations : 0
+Time Elapsed        : 00:00:02

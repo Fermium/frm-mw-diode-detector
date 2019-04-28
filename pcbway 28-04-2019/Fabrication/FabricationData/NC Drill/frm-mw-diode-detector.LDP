@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Davide Bortolami\AppData\Local\Temp\Releases\Snapshot\1\frm-mw-diode-detector.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=frm-mw-diode-detector-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=frm-mw-diode-detector-slotholes.txt|DrillLayers=gtl,gbl
