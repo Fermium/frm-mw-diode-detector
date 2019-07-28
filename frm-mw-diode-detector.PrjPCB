@@ -229,10 +229,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Combined\Design Rule Check - frm-mw-diode-detector.html
-DItemRevisionGUID=
-
 [Parameter1]
 Name=ProjectTitle
 Value=FRM-MW DIODE DETECT.
