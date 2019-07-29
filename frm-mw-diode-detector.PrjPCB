@@ -210,7 +210,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VSPPABVB
+DocumentUniqueId=XUWWEKXA
 
 [Document11]
 DocumentPath=frm-mw-diode-detector.BomDoc
@@ -228,6 +228,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Combined\Design Rule Check - frm-mw-diode-detector.html
+DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectTitle
