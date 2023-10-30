@@ -1,0 +1,10 @@
+Output: Report Board Stack metric
+Type  : Report Board Stack
+From  : PCB Document [frm-mw-diode-detector.PcbDoc]
+   Generated File[frm-mw-diode-detector.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:14:06 PM On 10/30/2023

@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\Shadow\Desktop\Repos\frm-mw-diode-detector\Project Outputs for Combined\AssemblyData\Pick and Place\Pick Place for frm-mw-diode-detector.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/10/23
+Time:       16:14
+Revision:   7acec6c22f7964340ca1b2f77693a2679201d727
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment               Description                                       Designator Footprint                            Layer    Rotation 
+826.772       1338.583      "IPC-7351A FIDUCIAL"  "GRAPHICS FIDUCIAL IPC-7351A"                     FD1        FIDUCIAL-IPC-7351A                   TopLayer 0        
+-3.937        -433.071      PASS-FAIL             "GRAPHICS PASS-FAIL MARK"                         GR2        0B1556B7-A534-4801-B57D-01EFA34B1205 TopLayer 180      
+-3.937        -433.071      "FermiumLABS logo"    "GRAPHICS LOGO FERMIUM LABS SRL"                  GR1        5394DE47-A0E8-4329-8464-7791B7C19310 TopLayer 180      
+270.000       1020.000      100pF                 "CAP SMD MLCC 100pF 100V 0603 C0G/NP0"            C12        CAP_0603_1608                        TopLayer 270      
+740.000       1020.000      10pF                  "CAP SMD MLCC 10pF 50V 0603 C0G/NP0"              C5         CAP_0603_1608                        TopLayer 270      
+520.000       1175.000      LTC5564HUD            "IC SMD RF POWER DETECTOR 15GHz LTC5564 QFN-16"   U3         1C9CA8C2-7F7E-4E2B-A488-6DD37E6BADEA TopLayer 270      
+550.000       1405.000      "Header 1p 2.54x15mm" "CONN THT PIN HEADER 1P MALE 2.54mm 15mm HEIGHT"  TP1        2C1CB748-2B7B-4AED-959C-BA5F218FC650 TopLayer 0        
+271.654       166.851       PJ-3900-04            "CONN THT 3.5mm AUDIO STEREO AUX SWITCH"          P2         7EF2B92C-0FC9-4C85-B662-5CEC65BFCCC4 TopLayer 90       
+535.354       1347.000      0.1pF                 "CAP SMD MLCC 0.1pF 50V 0402 HIGH-Q"              C9         CAP_0402_1005_RF                     TopLayer 0        
+549.607       1294.607      0.1pF                 "CAP SMD MLCC 0.1pF 50V 0402 HIGH-Q"              C8         CAP_0402_1005_RF                     TopLayer 270      
+251.102       707.638       LM324DT               "IC SMD OPAMP LM324DT SO-14"                      U2         34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 270      
+861.457       804.606       AS78L05RTR-E1         "IC SMD LINEAR VOLTAGE REGULATOR 5V 100mA SOT-89" U1         E733EFB9-FE91-4AE9-9197-29251971C3DC TopLayer 0        
+215.039       495.709       4.7K                  "RES SMD 4.7K OHM 1% 1/10W 0603"                  R3         RES_0603_1608                        TopLayer 270      
+85.039        495.709       100K                  "RES SMD 100K OHM 1% 1/10W 0603"                  R2         RES_0603_1608                        TopLayer 90       
+150.039       495.709       4.7K                  "RES SMD 4.7K OHM 1% 1/10W 0603"                  R1         RES_0603_1608                        TopLayer 90       
+306.693       517.638       100K                  "RES SMD 100K OHM 1% 1/10W 0603"                  R4         RES_0603_1608                        TopLayer 360      
+400.000       1020.000      10K                   "RES SMD 10K OHM 1% 1/10W 0603"                   R7         RES_0603_1608                        TopLayer 90       
+529.843       1020.000      100                   "RES SMD 100 OHM 1% 1/10W 0603"                   R6         RES_0603_1608                        TopLayer 270      
+335.000       1020.000      100K                  "RES SMD 100K OHM 1% 1/10W 0603"                  R5         RES_0603_1608                        TopLayer 90       
+939.134       225.472       DC-005A-20A           "CONN THT DC JACK 0.5A 30VDC 5Kcycles"            P1         F0972D8A-C5C0-4A84-836D-A9666EE65C2D TopLayer 90       
+685.610       473.307       BLM18BD252SN1D        "FER SMD CHIP 0603 400mA 1k@100MHz 500mOhm"       L1         FER_0603_1608                        TopLayer 90       
+411.102       447.638       3.3V                  "DIODE SMD TVS 3.3V BIDIRECTIONAL SOD-523"        D1         SOD523F                              TopLayer 360      
+421.102       517.638       100nF                 "CAP SMD MLCC 100nF 25V 0603 X7R"                 C10        CAP_0603_1608                        TopLayer 0        
+465.866       1020.000      100nF                 "CAP SMD MLCC 100nF 25V 0603 X7R"                 C11        CAP_0603_1608                        TopLayer 270      
+600.000       1020.000      1nF                   "CAP SMD MLCC 1nF 50V 0603 X7R"                   C7         CAP_0603_1608                        TopLayer 270      
+670.000       1020.000      100pF                 "CAP SMD MLCC 100pF 100V 0603 C0G/NP0"            C6         CAP_0603_1608                        TopLayer 270      
+747.146       869.606       10uF                  "CAP SMD MLCC 10uF 25V 0805 X5R"                  C4         CAP_0805_2012                        TopLayer 0        
+747.146       745.551       10uF                  "CAP SMD MLCC 10uF 25V 0805 X5R"                  C3         CAP_0805_2012                        TopLayer 0        
+475.039       705.709       100nF                 "CAP SMD MLCC 100nF 25V 0603 X7R"                 C2         CAP_0603_1608                        TopLayer 90       
+894.823       553.307       220uF                 "CAP  THT ELEC 220uF 25V 20%"                     C1         3924B366-8672-45E9-B0BE-62DACC24E783 TopLayer 0        

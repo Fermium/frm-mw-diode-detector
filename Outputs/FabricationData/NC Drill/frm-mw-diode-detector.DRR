@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: frm-mw-diode-detector.PcbDoc   10/30/2023  4:14:04 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : frm-mw-diode-detector-RoundHoles.TXT
+ASCII SlotHoles File : frm-mw-diode-detector-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             84        PTH        9.14inch (232.08mm)
+T2      32mil (0.8mm)                                             Slot              3         PTH        1.29inch (32.87mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.10inch (2.50mm)
+T4      39mil (1mm)                                               Round             1         PTH        0.00inch (0.00mm)
+T5      47mil (1.2mm)                                             Round             5         PTH        0.67inch (17.07mm)
+T6      59mil (1.5mm)                                             Round             2         NPTH       0.39inch (10.00mm)
+T7      118mil (3mm)                                              Round             6         NPTH       2.36inch (60.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              103
+
+Total Processing Time (hh:mm:ss) : 00:00:00
